@@ -5,3 +5,5 @@ dist
 MANIFEST
 *.egg-info
 venv
+env
+.vscode
